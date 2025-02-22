@@ -1,4 +1,5 @@
-# 💫 About me: Currently in 2025 I am studying Systems Development Analysis
+# 💫 About me:
+ Currently in 2025 I am studying Systems Development Analysis
 🔭 <br>👯 I am looking for new knowledge in the technology area <br>🤝 I also aim for my personal and professional development <br>🌱 I’m currently learning<br>
 
 # 📊 GitHub Stats:
