@@ -1,6 +1,6 @@
 # 💫 About me:
- Currently in 2025 I am studying Systems Development Analysis
-🔭 <br>👯 I am looking for new knowledge in the technology area <br>🤝 I also aim for my personal and professional development <br>🌱 I’m currently learning<br>
+🔭 Currently in 2025 I am studying Systems Development Analysis
+<br>👯 I am looking for new knowledge in the technology area <br>🤝 I also aim for my personal and professional development <br>🌱 I’m currently learning<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luketta07&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
