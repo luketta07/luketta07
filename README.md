@@ -12,5 +12,5 @@ Sou estudante de ADS e desenvolvedor apaixonado por jogos 2D e projetos web. Atu
 
 ## 📫 Conecte-se comigo
 - [E-mail](mailto:lucasgsouza.contato@gmail.com)
-- 📸 [Instagram](https://www.instagram.com/l.kttsouza)
-- 📹 [YouTube](https://www.youtube.com/@Luketti.lif3)
+- [Instagram](https://www.instagram.com/l.kttsouza)
+- [YouTube](https://www.youtube.com/@Luketti.lif3)
